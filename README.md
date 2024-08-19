@@ -5,7 +5,9 @@
 
 ## Note
 
-I used MongoDB Compass as my local Database
+DataBase - MongoDB Compass (Local Database)
+Server - Node JS (with the help of express js)
+Frontend - React JS (with the help of Bootstrap 5)
 
 
 

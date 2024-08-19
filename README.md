@@ -6,7 +6,9 @@
 ## Note
 
 DataBase - MongoDB Compass (Local Database)
+
 Server - Node JS (with the help of express js)
+
 Frontend - React JS (with the help of Bootstrap 5)
 
 
